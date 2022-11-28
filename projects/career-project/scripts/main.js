@@ -1,3 +1,6 @@
+/* 
+Please do not touch this JS.
+*/
 //allows us to use different css styling when there is no JS active on the page
 const bod = document.querySelector('body');
 bod.classList.remove('no-js');
